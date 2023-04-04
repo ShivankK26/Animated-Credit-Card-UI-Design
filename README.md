@@ -5,7 +5,7 @@
 
 
 
-In this Project, I've built a UI Design for a credit card. The Tech Stack used is CSS.
+In this Project, I've built a UI Design for a credit card. It is built with a modern UI Design and can be used a lot for industrial purposes.
 
 
 Use the `README.md` to get started.
@@ -30,6 +30,8 @@ The Tech Stacks used are:
 To get started, first of all create the basic HTML and CSS files. After that use the Google Font API. We'll also use some webkits and cloudflare animations.
 
 ## Installation
+
+* Google API
 
   ```sh
       https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap
